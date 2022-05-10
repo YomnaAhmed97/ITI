@@ -16,14 +16,12 @@ The features are [App, Category, Rating, Reviews, Size, Installs, Type, Price, C
  
  
  #Dashboard Screens-shot
- 
- ![Screenshot 2022-05-10 143918](https://user-images.githubusercontent.com/32110361/167646879-20ea461f-c425-4a7b-9c2e-2658586c05f8.png)
-![Screenshot 2022-05-10 143959](https://user-images.githubusercontent.com/32110361/167646888-aefdb961-2baa-4177-8eb5-980ee4bd53b6.png)
-![Screenshot 2022-05-10 144019](https://user-images.githubusercontent.com/32110361/167646902-b7a5db57-cbd8-4cd8-a6e5-108dbc36869d.png)
-![Screenshot 2022-05-10 144033](https://user-images.githubusercontent.com/32110361/167646914-720fb400-eb66-43ad-9dd0-81739ec0080d.png)
+ ![1](https://user-images.githubusercontent.com/32110361/167648225-35632fb4-0b30-4830-ae20-9c4125419554.png)
+![2](https://user-images.githubusercontent.com/32110361/167648307-0a6463bf-bd2d-46c1-bb40-7d1372b7c8b2.png)
+![3](https://user-images.githubusercontent.com/32110361/167648365-b26cc0c2-b496-4ca7-ba7d-70d3dbefd2d4.png)
+![4](https://user-images.githubusercontent.com/32110361/167648396-c75288c1-05f0-4adb-8db4-7b0d8193342d.png)
+![5](https://user-images.githubusercontent.com/32110361/167648456-81749aea-7bde-40bf-ae32-54758b668cf5.png)
+![Screenshot 2022-05-10 144033](https://user-images.githubusercontent.com/32110361/167648480-8a075046-2588-4e92-a840-1f8a0a439502.png)
 
- 
- ![Screenshot 2022-05-10 143846](https://user-images.githubusercontent.com/32110361/167646851-046fce10-5335-490e-a513-47e966e2622a.png)
-![Screenshot 2022-05-10 143903](https://user-images.githubusercontent.com/32110361/167646873-773fa65b-66f6-434b-996c-58c7eb0b9fbe.png)
 
 
