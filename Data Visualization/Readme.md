@@ -2,6 +2,8 @@
 ## This repo contains data analysis & some graphs convert into dashboard.
 ### Data visualize with plotly,dash & bootsrap.
 
+This dataset from https://www.kaggle.com/datasets/lava18/google-play-store-apps
+
  # Overview
  The Play Store apps data has enormous potential to drive app-making businesses to success. Actionable insights can be drawn for developers to work on and capture the Android market! This dataset consists of 13 features with 10841 record.
 
